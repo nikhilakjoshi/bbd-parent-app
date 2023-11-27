@@ -21,7 +21,7 @@ export default function Home() {
         <div className="grid grow place-items-center px-20">
           <div className="w-full overflow-hidden rounded border">
             <iframe
-              src="http://localhost:3001"
+              src="https://child.bluebuckdesigns.xyz/"
               sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
               className="h-[75dvh] w-full"
             ></iframe>
